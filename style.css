@@ -1,0 +1,55 @@
+.post {
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: url('back.jpeg');
+}
+
+footer {
+    padding: 20px;
+}
+
+.read_more {
+    text-align: right;
+}
+
+ul {
+
+list-style-type: none;
+
+}
+
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn.focus:active,
+.btn:active:focus,
+.btn:focus {
+    outline-color: red !important;
+    outline: 0 !important;
+    outline-offset: 0  !important;
+    background-color: none  !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none  !important;
+}
+
+.kat {
+ padding-top: 20px;  
+}
+
+.kontakt {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+}
+
+.logow {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+}
+
+.conf {
+    color: white;
+}
